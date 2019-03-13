@@ -87,16 +87,6 @@
     </EmbeddedNativeLibrary>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedNativeLibrary Include="Assets\x86\libtpnsSecurity.so">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedNativeLibrary>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedNativeLibrary Include="Assets\x86\libxguardian.so">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedNativeLibrary>
-  </ItemGroup>
-  <ItemGroup>
     <EmbeddedNativeLibrary Include="Assets\x86_64\libtpnsSecurity.so">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedNativeLibrary>
